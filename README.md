@@ -1,4 +1,4 @@
-# [Comfy](https://comfy-frontend.vercel.app)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -25,9 +25,7 @@ Comfy is a MERN fullstack furniture Ecommerce project that has the following fea
 - Filter products by price, categoty and brand
 - Contact form
 
-### Screenshot
 
-![](./src/assets/readme-screenshot.png)
 
 ### Links
 
@@ -68,9 +66,8 @@ Comfy is a MERN fullstack furniture Ecommerce project that has the following fea
 
 ## Author
 
-Comfy is an ITI graduation project built by a team of 4 aspiring developers:
+Trfil is   graduation project built by a team of  aspiring developers:
 
-- [Aya Mohamed](https://github.com/Aya-Saeed261)
-- [Amal Halim](https://github.com/amallhalim)
-- [Mariam Abdallah](https://github.com/mariam-abdallah)
-- [Safaa Ibrahim](https://github.com/Safaa-Ebrahim)
+- [Tarun sharma]()
+- [Sunil Patidar]()
+- [Mahendra singh ]()
